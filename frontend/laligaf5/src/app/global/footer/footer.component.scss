@@ -1,0 +1,27 @@
+footer {
+    background-color: #76C762;
+    width: 100%;
+    min-height: 100px;
+    flex-direction: row;
+    justify-content: space-between;
+    // margin-left: 80%;
+    // position: absolute;
+}
+
+.copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 300px;
+    // margin-top: auto;
+    // margin-bottom: auto;
+    // margin-right: 50%;
+    // margin-left: 50%;
+    // position: absolute;
+}
+
+.name {
+    margin-top: 60px;
+    margin-right: 30px;
+    position: absolute;
+}
