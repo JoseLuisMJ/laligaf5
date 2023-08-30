@@ -1,8 +1,11 @@
 body {
     background-image: url(/assets/images/football-1419954_640.jpg);
     background-position: center;
-     height: 1000px;
+     height: 100%;
      width: 100%;
-     position: relative;    
-  }
+    position: relative; 
+    background-size: 100%;
+    background-repeat: no-repeat;  
+}
+ 
   
