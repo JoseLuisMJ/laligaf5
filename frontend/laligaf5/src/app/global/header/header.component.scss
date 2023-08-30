@@ -1,11 +1,21 @@
-#nav-header {
-    background-color: #76C762;
+nav {
+    background-color: #76C762 !important;
+    min-height: 120px;
 }
 
 h1 {
     font-family: 'Modak', cursive;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 img {
     border-radius: 10px;
+    position: absolute;
+    margin-top: -30px;
+}
+
+#home {
+    margin-left: 75%;
+    position: absolute;
 }
