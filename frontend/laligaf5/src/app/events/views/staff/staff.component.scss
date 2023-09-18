@@ -1,8 +1,15 @@
 .card mb-3 {
     border-radius: 10px;
+    z-index: 1;
+    opacity: 1;
 }
 
 main {
+    background-image: url(/assets/images/istockphoto.webp);
+    background-position: center;
+    position: relative; 
+    background-size: cover;
+    background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -11,11 +18,25 @@ main {
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;
-    background-image: url(/assets/images/istockphoto.webp);
-    background-position: center;
-    //  height: 100%;
-    //  width: 100%;
-    position: absolute; 
-    background-size: 100%;
-    background-repeat: no-repeat;
+    opacity: 0.75;
+    z-index: -1;
+}
+
+h2 {
+    font-weight: bold;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+}
+
+// #player {
+//     z-index: 1;
+//      opacity: 1;
+// }
+
+section {
+    margin-bottom: 10%;
+    position: relative;
+    z-index: 1;
+    opacity: 1;
 }
