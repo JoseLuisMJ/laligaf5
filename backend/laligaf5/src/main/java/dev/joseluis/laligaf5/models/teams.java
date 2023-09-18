@@ -18,7 +18,7 @@ import lombok.*;
 @Getter
 @NoArgsConstructor
 @Entity
-@Table(name = "details")
+@Table(name = "teams")
 
 public class teams {
     
