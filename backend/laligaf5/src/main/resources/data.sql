@@ -1,4 +1,4 @@
-INSERT INTO team(id, nombre) VALUES(1, 'Alavés'),
+INSERT INTO teams(id, nombre) VALUES(1, 'Alavés'),
 (2, 'Almería'),
 (3, 'Athletic de Bilbao'),
 (4, 'Atlético de Madrid'),
