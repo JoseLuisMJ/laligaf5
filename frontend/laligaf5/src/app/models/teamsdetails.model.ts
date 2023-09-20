@@ -1,4 +1,4 @@
-export interface DetailsTeam {
+export interface TeamsDetails {
     imagen: String;
     pais: String;
     fundacion: number; 

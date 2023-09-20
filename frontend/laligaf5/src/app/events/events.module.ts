@@ -14,9 +14,9 @@ import { CardhomeComponent } from './components/cardhome/cardhome.component';
 
 @NgModule({
   declarations: [
-    CardteamComponent,
-    CarddetailsteamsComponent,
-    CardhomeComponent
+    // CardteamComponent,
+    // CarddetailsteamsComponent,
+    // CardhomeComponent
   ],
   imports: [
     CommonModule,
