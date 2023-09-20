@@ -70,7 +70,7 @@ public class detailsteams {
     private String entrenador;
 
     @Column
-    private String type;
+    private String web;
 
     @Column
     private String sede;
